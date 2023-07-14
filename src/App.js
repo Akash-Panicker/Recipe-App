@@ -2,8 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Recipe from './Recipe';
 import React, { useEffect, useState } from "react";
-const APP_ID = '6df79059'
-const APP_KEY = 'c72292423535f7ae80f3a1629c988812'
+// APP_ID and APP_KEY hidden from public for privacy reasons. Please create your own at their site.
 
 const App = () => {
 
