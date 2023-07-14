@@ -1,0 +1,32 @@
+.App{
+  min-height: 100vh;
+  background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+}
+
+.search-form{
+  min-height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-bar{
+  width: 50%;
+  border: none;
+  padding: 10px;
+}
+
+.search-button{
+  background-color: aquamarine;
+  border: none;
+  padding: 10px 20px;
+  color: black;
+}
+
+.innerform{
+  display: flex;
+  /* width: 50%; */
+  justify-content: space-around;
+  flex-wrap: wrap;
+  /* flex-direction: row; */
+}
